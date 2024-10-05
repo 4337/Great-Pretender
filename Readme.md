@@ -12,4 +12,5 @@ AW może komuś się przyda.<br/>
 <br/>
 Uczyłem się przegrywów, trzeba było ARM-a i MIPS-a się uczyć :( 
 <br/>
+<br/>
 🥷 

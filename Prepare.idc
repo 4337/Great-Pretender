@@ -5,7 +5,7 @@
 * ********
 * Skrypt mn. poprawia nazwy funkcji bibliotecznych 
 * w wersji objętej embargiem (dla ubogich) -- dlatego embargo jest dobre bo uczymy się je omijać <br/>
-* im większe mebargo tym bardziej chcemy je ominąć, po co ? Nikt nie wie.
+* im większe mebargo tym bardziej chcemy je ominąć, po co i dla czego ? Nikt nie wie.
 * To jest właśnie "psychological acceptability" w teroii bezpieczeństwa.
 *
 * --------

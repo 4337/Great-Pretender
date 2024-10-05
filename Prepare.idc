@@ -243,7 +243,7 @@ static preparing(base) {
 		   
 		   while((func_name = get_name(Qword(f_thunk_addr))) != 0) {
 		    
-			     func_name = get_name(Qword(f_thunk_addr));
+			     //func_name = get_name(Qword(f_thunk_addr));
 				 
                  msg("addr:0x%x point to %s (fixing format and name)\n",f_thunk_addr, func_name);
 				 MakeQword(f_thunk_addr);

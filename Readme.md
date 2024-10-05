@@ -8,4 +8,6 @@ Chciałem to napisać również dla 32-bitowych aplikacji, ale komu by się chci
 AW może komuś się przyda.<br/>
 <h3>Obrazki</h3>
 <a href="https://github.com/4337/Great-Pretender/blob/main/Przed.png">https://github.com/4337/Great-Pretender/blob/main/Przed.png</a><br/>
-<a href="https://github.com/4337/Great-Pretender/blob/main/Po.png">https://github.com/4337/Great-Pretender/blob/main/Po.png</a>
+<a href="https://github.com/4337/Great-Pretender/blob/main/Po.png">https://github.com/4337/Great-Pretender/blob/main/Po.png</a><br/>
+
+(uczyłęm się przgrywów, trzeba było ARM-a i MIPS-a :( 🥷)

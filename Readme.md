@@ -9,5 +9,4 @@ AW może komuś się przyda.<br/>
 <h3>Obrazki</h3>
 <a href="https://github.com/4337/Great-Pretender/blob/main/Przed.png">https://github.com/4337/Great-Pretender/blob/main/Przed.png</a><br/>
 <a href="https://github.com/4337/Great-Pretender/blob/main/Po.png">https://github.com/4337/Great-Pretender/blob/main/Po.png</a><br/>
-<br/>
-uczyłem się przegrywów, trzeba było ARM-a i MIPS-a się uczyć 🥷 :( 
+Uczyłem się przegrywów, trzeba było ARM-a i MIPS-a się uczyć 🥷 :( 

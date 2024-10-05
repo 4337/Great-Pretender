@@ -6,7 +6,7 @@
 * Skrypt mn. poprawia nazwy funkcji bibliotecznych 
 * w wersji objętej embargiem (dla ubogich) -- dlatego embargo jest dobre bo uczymy się je omijać <br/>
 * im większe mebargo tym bardziej chcemy je ominąć, po co i dlaczego ? Nikt nie wie.
-* To jest właśnie "psychological acceptability" w teroii bezpieczeństwa.
+* To jest właśnie "psychological acceptability" w teroii bezpieczeństwa (cyber -- nie wiem jakie macie inne teorie) .
 *
 * --------
 * Miało być również dla 32-bitów, ale mnie się nie chce.

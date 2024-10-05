@@ -4,7 +4,8 @@
 * Saneskobar broni się nadal !
 * ********
 * Skrypt mn. poprawia nazwy funkcji bibliotecznych 
-* w wersji objętej embargiem (dla ubogich)
+* w wersji objętej embargiem (dla ubogich) -- dlatego embargo jest dobre bo uczymy się je omijać <br/>
+* to jest właśnie "psychological acceptability" w teroii bezpieczeństwa 
 * --------
 * Miało być również dla 32-bitów, ale mnie się nie chce.
 * Testowane wyłącznie z nvcontainer.exe (x64)

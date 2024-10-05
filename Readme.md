@@ -1,4 +1,4 @@
-<h3>Great Pretender - not so great, and not so The</h3>
+<h3>Great Pretender - not so great and not so The</h3>
 
 Jeśli zdarzyło wam się używać Ida Pro (Free) i lokalnego debugera Windows to być może zauważyliście,<br/>
 że Ida nie oznacza funkcji bibliotecznych z tablicy importów (przynajmniej jeśli IAT jest łączona z innymi sekcjami np. .rdata — przypadek testowy). <br/>

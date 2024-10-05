@@ -6,3 +6,5 @@ Nie lubimy tracić czasu — ja nie lubię — na sprawdzanie funkcji bibliotecz
 Oczywiście jak wszystko u mnie tu również obowiązuje forma POC więc być może kiedyś sporo się tu zmieni.<br/>
 Chciałem to napisać również dla 32-bitowych aplikacji, ale komu by się chciało robić takie rzeczy.<br/>
 AW może komuś się przyda.<br/>
+<a href="https://github.com/4337/Great-Pretender/blob/main/Przed.png">przed</a><br/>
+<a href="https://github.com/4337/Great-Pretender/blob/main/Po.png">po</a>

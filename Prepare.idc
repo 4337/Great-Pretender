@@ -6,7 +6,7 @@
 * Skrypt mn. poprawia nazwy funkcji bibliotecznych 
 * w wersji objętej embargiem (dla ubogich)
 * --------
-* Miało być również dla 32-bitów, ale mnie się niechce.
+* Miało być również dla 32-bitów, ale mnie się nie chce.
 * Testowane wyłącznie z nvcontainer.exe (x64)
 * ********
 * echovsky 04/10/2024

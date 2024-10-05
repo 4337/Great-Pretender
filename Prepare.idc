@@ -4,7 +4,7 @@
 * Saneskobar broni się nadal !
 * ********
 * Skrypt mn. poprawia nazwy funkcji bibliotecznych 
-* w wersji obiętej embargiem (dla ubogich)
+* w wersji objętej embargiem (dla ubogich)
 * --------
 * Miało być również dla 32-bitów, ale mnie się niechce.
 * Testowane wyłącznie z nvcontainer.exe (x64)

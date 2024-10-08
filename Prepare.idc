@@ -248,7 +248,7 @@ static preparing(base) {
                  msg("addr:0x%x point to %s (fixing format and name)\n",f_thunk_addr, func_name);
 				 MakeQword(f_thunk_addr);
 				 set_name(f_thunk_addr,"echo_"+func_name);
-                 of_thunk_addr = of_thunk_addr + 8;
+                
 			     f_thunk_addr  = f_thunk_addr  + 8;
 			
 		   }

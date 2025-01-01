@@ -234,6 +234,7 @@ static preparing(base) {
 	   auto of_thunk_addr;
 	   auto f_thunk_addr;
 	   auto func_name;
+	   
 	   for(i=0; i<iat_dir_size - 1;i++) {    /* import directory entries [ECHO_IMAGE_DESCRIPTOR_HDR][N] */
 	       
 		   of_thunk_addr = base + Dword(imports_directory);

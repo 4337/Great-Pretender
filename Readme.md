@@ -5,7 +5,7 @@ Jeśli zdarzyło wam się używać Ida Pro (Free) i lokalnego debugera Windows t
 Nie lubimy tracić czasu — ja nie lubię — na sprawdzanie funkcji bibliotecznych więc napisałem skrypt, który naprawia nazwy funkcji.
 Oczywiście jak wszystko u mnie tu również obowiązuje forma POC więc być może kiedyś sporo się tu zmieni.<br/>
 Chciałem to napisać również dla 32-bitowych aplikacji, ale komu by się chciało robić takie rzeczy.<br/>
-AW może komuś się przyda.<br/>
+aw. może komuś się przyda.<br/>
 <h3>Obrazki</h3>
 <a href="https://github.com/4337/Great-Pretender/blob/main/Przed.png">https://github.com/4337/Great-Pretender/blob/main/Przed.png</a><br/>
 <a href="https://github.com/4337/Great-Pretender/blob/main/Po.png">https://github.com/4337/Great-Pretender/blob/main/Po.png</a><br/>

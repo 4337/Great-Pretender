@@ -76,8 +76,8 @@ static pe32_struct() {
 	   mId = AddStrucMember(mId,"e_lfanew",46,FF_BYTE,-1,4)
 	   
 	   auto mId;
-	   IMAGE_FILE_HEADER = AddStrucEx(-1,"IMAGE_FILE_HEADER",0)
-	   mId = GetStrucIdByName("IMAGE_FILE_HEADER")
+	   IMAGE_FILE_HEADER = AddStrucEx(-1,"IMAGE_FILE_HEADER32",0)
+	   mId = GetStrucIdByName("IMAGE_FILE_HEADER32")
 	   mId = AddStrucMember(mId,"Machine",0,FF_BYTE,-1,2)
 	   mId = AddStrucMember(mId,"NumberOfSections",2,FF_BYTE,-1,2)
 	   mId = AddStrucMember(mId,"TimeDateStamp",4,FF_BYTE,-1,4)
@@ -121,8 +121,8 @@ static pe32_struct() {
 	   mId = AddStrucMember(mId,"NumberOfRvaAndSizes", 92,FF_BYTE,-1,4)
 	   
 	   auto mId;
-	   IMAGE_DATA_DIRECTORY = AddStrucEx(-1,"IMAGE_DATA_DIRECTORY",0)
-	   mId = GetStrucIdByName("IMAGE_DATA_DIRECTORY")
+	   IMAGE_DATA_DIRECTORY = AddStrucEx(-1,"IMAGE_DATA_DIRECTORY32",0)
+	   mId = GetStrucIdByName("IMAGE_DATA_DIRECTORY32")
 	   mId = AddStrucMember(mId,"VirtualAddress",0,FF_BYTE,-1,4)
 	   mId = AddStrucMember(mId,"Size",4,FF_BYTE,-1,4)
 	   mId = AddStrucMember(mId,"padding",8,FF_BYTE,-1,8 * 16)
